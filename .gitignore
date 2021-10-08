@@ -1,0 +1,14 @@
+# Temp Files
+._*
+
+# Mac Files
+.DS_Store
+
+# IDE Files
+.idea
+.vscode
+
+# Other Files and Directories
+dist
+node_modules
+stats.json
