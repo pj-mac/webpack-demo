@@ -1,6 +1,6 @@
 # Webpack Demo
 
-<img src="logo.png" alt="webpack logo" width="200" height="200" />
+<img src="logo.png" alt="webpack logo" width="150" height="150" />
 
 ## Overview
 
